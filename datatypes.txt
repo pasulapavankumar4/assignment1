@@ -1,0 +1,6 @@
+Datatypes:
+used to defined what kind of the data stored.
+
+TYPES:
+primitive
+-stores single value
