@@ -1,0 +1,9 @@
+* * * * *         *
+* * * * *         * *
+* * * * *         * * *
+* * * * *         * * * *
+* * * * *         * * * * *
+
+use for loop
+use nested loop
+use coordinates
